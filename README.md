@@ -1,8 +1,8 @@
 # ETL-DW
-Este foi um projeto de ETL para um Data Warehouse está bem resumido e dinâmico
+Este foi um projeto de ETL para um Data Warehouse está bem resumido e dinâmico!
 
 
-Olá gostaria de apresentar um projeto que desenvolvi com alguns dados acadêmicos, neste projeto eu desenvolvi um Data Warehouse através de procedimentos de ETL, com cargas dos bancos de dados origem, para o stage e por fim para o Data Warehouse, e ao final automatizando o projeto. Vamos aos requisitos do projeto!
+Gostaria de apresentar um projeto que desenvolvi com alguns dados acadêmicos, neste projeto eu desenvolvi um Data Warehouse através de procedimentos de ETL, com cargas dos bancos de dados origem, para o stage e por fim para o Data Warehouse, e ao final automatizando o projeto. Vamos aos requisitos do projeto!
 Requisitos do Projeto
 
 Stakeholder:  Joana Sousa
